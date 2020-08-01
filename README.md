@@ -18,6 +18,6 @@ It uses .NET Core, which you can install here: https://dotnet.microsoft.com/down
 When finished, you'll find the executable in `/bin/Release/netcoreapp3.1/`
 ## Dependencies
 
-Hexify for editing the hex of the mp4 file: https://github.com/lowleveldesign/hexify
+Hexify for editing the hex of the webm file: https://github.com/lowleveldesign/hexify
 ## Usage
 Simply run the executable, and follow the on-screen instructions :)
