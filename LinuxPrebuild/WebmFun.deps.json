@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebmFun/1.0.0": {
+        "dependencies": {
+          "Hexify": "1.2.0"
+        },
+        "runtime": {
+          "WebmFun.dll": {}
+        }
+      },
+      "Hexify/1.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/Hexify.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebmFun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hexify/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3y6D2nnsen+ZKE1k4D5iTmQ8FQyCp8mpawvv1v3CVTC1vAwOsUElwFYmGJIWhmLJhmpDXrk4ygsUPKkF8WyfOA==",
+      "path": "hexify/1.2.0",
+      "hashPath": "hexify.1.2.0.nupkg.sha512"
+    }
+  }
+}
